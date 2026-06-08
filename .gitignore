@@ -1,0 +1,33 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Eclipse / general IDE metadata
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment notes
+.env
