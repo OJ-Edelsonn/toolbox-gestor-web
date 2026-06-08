@@ -4,7 +4,7 @@ Sistema Web de Gestion de Ventas e Inventario para J&S Ferreteria.
 
 ## Estado del proyecto
 
-Fase actual: estructura inicial del proyecto.
+Fase actual: avance parcial aproximado del 60%.
 
 Este repositorio se desarrollara por fases para que el codigo sea entendible y defendible en exposicion academica. El sistema usara Java Web clasico con arquitectura MVC, JSP, Servlets, JDBC y MySQL.
 
@@ -76,17 +76,25 @@ src/main/webapp/
   ventas/
 ```
 
-## Modulos previstos
+## Modulos implementados en este avance
 
-- Pagina principal
-- CRUD de categorias
-- CRUD de proveedores
-- CRUD de clientes
-- CRUD de productos
-- Consulta de productos con bajo stock
-- Registro de ventas
-- Detalle de venta
-- Descuento automatico de stock
+- Pagina principal.
+- Script de base de datos con datos de prueba.
+- Conexion JDBC.
+- Layout JSP reutilizable.
+- CRUD de categorias.
+- CRUD de proveedores.
+- CRUD de clientes.
+- CRUD de productos.
+- Consulta de productos con bajo stock.
+
+## Modulos pendientes para la segunda entrega
+
+- Registro de ventas.
+- Detalle de venta.
+- Validacion de stock en ventas.
+- Descuento automatico de stock.
+- Documentacion final y manual de usuario.
 
 ## Alineacion con la evaluacion
 
